@@ -126,6 +126,12 @@ about boxes 13+/15+.
 - **1.0.0** — initial release: 40 boxes on Gen 1/2/3, the `ensure` materialiser,
   and the Gen 1 quarantine / Gen 2 shape repair save guard.
 
+## Repository
+
+<https://github.com/tectorifter/g9-boxes> — the home of this mod. The manifest
+declares it as `"github"`, so the gen1recomp launcher can pull an update for an
+installed copy straight from its own release.
+
 ## License
 
 GNU General Public License v3.0 (GPL-3.0). Copyright (C) 2026

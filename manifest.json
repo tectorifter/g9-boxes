@@ -1,7 +1,7 @@
 {
   "id": "g9-boxes",
   "name": "50-box PC storage",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "api": 2,
   "entry": "main.lua",
   "profile": "content",
@@ -19,6 +19,7 @@
   "dependencies": [],
   "optional_dependencies": [],
   "description": "50 boxes of 30 slots, with save repair to stop overflows",
+  "github": "https://github.com/tectorifter/g9-boxes",
   "experimental": false,
   "conflicts": [],
   "incompatible": []

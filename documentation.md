@@ -39,6 +39,10 @@ edited — only the module tables the engine already holds.
 
 ## History
 
+- **1.1.5** declares the mod's own repository in the manifest
+  (`"github": "https://github.com/tectorifter/g9-boxes"`), so the gen1recomp
+  launcher can pull updates for an installed copy from its own GitHub release.
+  No code change.
 - **1.1.4** adds a third-party-IP notice (`THIRD-PARTY-NOTICES.md`): Pokemon and
   related assets belong to Nintendo, Creatures Inc., GAME FREAK inc. and The
   Pokemon Company; this is an unofficial fan mod owning only its own Lua
