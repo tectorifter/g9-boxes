@@ -1,0 +1,25 @@
+{
+  "id": "g9-boxes",
+  "name": "50-box PC storage",
+  "version": "1.1.4",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.1.45",
+  "games": [
+    "gen1",
+    "gen2",
+    "gen3"
+  ],
+  "category": "GAMEPLAY",
+  "priority": 90,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "description": "50 boxes of 30 slots, with save repair to stop overflows",
+  "experimental": false,
+  "conflicts": [],
+  "incompatible": []
+}
